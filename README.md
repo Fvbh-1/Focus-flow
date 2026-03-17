@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>FocusFlow</title>
+<title></title>
 
 <style>
 body{
